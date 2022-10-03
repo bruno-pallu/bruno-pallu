@@ -1,4 +1,4 @@
-# Oi, eu sou o Pallú 👋
+## Oi, eu sou o Pallú 👋
 
 ### Estou aprimorando minhas habilidades em automação e programação.
 <!-- Assim se comenta várias linhas
