@@ -1,6 +1,6 @@
 ### Oi, eu sou o Pallú 👋
 
-## Estou aprimorando minhas habilidades em automação e programação.
+# Estou aprimorando minhas habilidades em automação e programação.
 <!-- Assim se comenta várias linhas
 -->
 
